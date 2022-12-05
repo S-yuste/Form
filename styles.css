@@ -1,3 +1,11 @@
-p {
+body {
     text-align: center;
+    font-family: Verdana, sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(rgb(252, 79, 79), rgb(82, 82, 238));
+    background-repeat: no-repeat;
 }
